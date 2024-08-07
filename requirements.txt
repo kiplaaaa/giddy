@@ -4,7 +4,6 @@ astunparse==1.6.3
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
 bidict==0.23.1
-clyent==1.2.2
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
 dm-tree==0.1.8
