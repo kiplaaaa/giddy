@@ -8,7 +8,6 @@ clyent==1.2.2
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
 dm-tree==0.1.8
-docutils @ file:/
 et-xmlfile==1.1.0
 face-recognition-models==0.3.0
 Flask-Cors==4.0.1
