@@ -7,4 +7,3 @@ bidict==0.23.1
 face-recognition-models==0.3.0
 Flask-Cors==4.0.1
 Flask-SocketIO==5.3.6
-gunicorn==22.0.0
