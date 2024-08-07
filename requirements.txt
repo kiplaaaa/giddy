@@ -4,10 +4,6 @@ astunparse==1.6.3
 atomicwrites==1.4.0
 backports.weakref==1.0.post1
 bidict==0.23.1
-conda-repo-cli==1.0.75
-conda-verify==3.4.2
-dm-tree==0.1.8
-et-xmlfile==1.1.0
 face-recognition-models==0.3.0
 Flask-Cors==4.0.1
 Flask-SocketIO==5.3.6
